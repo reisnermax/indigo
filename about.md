@@ -4,19 +4,17 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Welcome to my personal website. 
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+I love gaining powerful new insights about why people behave one way, rather than another. I am a behavioural scientist. I’ve lived ,worked and studied in Germany, Sweden, France and Spain and I am proud to call Sydney my home for the last couple of years.
+
+I am currently doing my PhD in Economics at UTS Sydney (link). I have specialized in Behavioural and Experimental Economics but I double in Development Economics and Applied Microeconomics. My research interests range from how to help the poor overcome their self-control problems using commitment devices to digital in-app nudges in the private banking sector to improve credit card repayment. I have been involved in field experiments in the Philippines and Rural Bangladesh.
+
+I have not just laboured over chalkboards throughout my entire career but I have worked extensively within the industry. I have worked in the behavioural economics team of CommBank helping to gain powerful new insights, data- driven and evidence-based, to improve Australians’ financial wellbeing.
+
+In my free time you find me out in the deep blue ocean, whether that’d be surfing, spearfishing or just exploring some new beaches. 
+
+Feel free to reach out if you are interested in collaborating, need help with a project or just want to go for a surf..</p>
 
 <h2>Skills</h2>
 
