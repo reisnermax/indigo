@@ -1,9 +1,9 @@
 # main text of home
 name: Max Reisner
-bio: A Man who travels the world eating noodles
+bio: Applied Behavioural Scientist | PhD Scholar | Ocean Addict
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about behavioural economics and stuff related
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://reisnermax.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,11 +34,11 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: max.reisner1
+# twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: maximilian-reisner/
 # youtube: myyoutube
 # spotify: myspotify
 github: mygithub
