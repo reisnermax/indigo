@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Welcome to my personal website. 
+Welcome to my personal website.  
 
 I love gaining powerful new insights about why people behave one way, rather than another. I am a behavioural scientist. I’ve lived ,worked and studied in Germany, Sweden, France and Spain and I am proud to call Sydney my home for the last couple of years.
 
@@ -14,7 +14,7 @@ I have not just laboured over chalkboards throughout my entire career but I have
 
 In my free time you find me out in the deep blue ocean, whether that’d be surfing, spearfishing or just exploring some new beaches. 
 
-Feel free to reach out if you are interested in collaborating, need help with a project or just want to go for a surf..</p>
+Feel free to reach out if you are interested in collaborating, need help with a project or just want to go for a surf.
 
 <h2>Skills</h2>
 
